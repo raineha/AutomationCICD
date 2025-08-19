@@ -44,7 +44,7 @@ namespace TestProject1
         public void Test2()
         {
             IWebElement SearchTextBox = driver.FindElement(By.XPath("//input[@name = 'q']"));
-            SearchTextBox..SendKeys("Mobile");
+            SearchTextBox.SendKeys("Mobile");
             IWebElement SearchButton = driver.FindElement(By.XPath("//button[@class = '_2iLD__']"));
             SearchButton.Click();
             //IWebElement MaxPrice = driver.FindElement(By.XPath("//div[@class='_1YAKP4']"));
@@ -53,6 +53,12 @@ namespace TestProject1
             driver.Close();
 
             Assert.Pass();
+        }
+
+        [Test]
+        public void Test3()
+        {
+            Console.WriteLine("12357904");
         }
     }
 }

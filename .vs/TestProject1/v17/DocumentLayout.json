@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\selenium\\TestProject1\\",
+  "WorkspaceRootPath": "C:\\Users\\Neha\\cicd\\TestProject1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5B7B1BB7-5C7C-4001-95EE-19BB9B1B0259}|TestProject1.csproj|d:\\selenium\\testproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5B7B1BB7-5C7C-4001-95EE-19BB9B1B0259}|TestProject1.csproj|c:\\users\\neha\\cicd\\testproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5B7B1BB7-5C7C-4001-95EE-19BB9B1B0259}|TestProject1.csproj|solutionrelative:unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5B7B1BB7-5C7C-4001-95EE-19BB9B1B0259}|TestProject1.csproj|d:\\selenium\\testproject1\\testproject1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "AbsoluteMoniker": "D:0:0:{5B7B1BB7-5C7C-4001-95EE-19BB9B1B0259}|TestProject1.csproj|c:\\users\\neha\\cicd\\testproject1\\testproject1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{5B7B1BB7-5C7C-4001-95EE-19BB9B1B0259}|TestProject1.csproj|solutionrelative:testproject1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5B7B1BB7-5C7C-4001-95EE-19BB9B1B0259}|TestProject1.csproj|d:\\selenium\\testproject1\\testproject1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{5B7B1BB7-5C7C-4001-95EE-19BB9B1B0259}|TestProject1.csproj|c:\\users\\neha\\cicd\\testproject1\\testproject1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{5B7B1BB7-5C7C-4001-95EE-19BB9B1B0259}|TestProject1.csproj|solutionrelative:testproject1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
@@ -32,9 +32,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "TestProject1",
-              "DocumentMoniker": "D:\\selenium\\TestProject1\\TestProject1.csproj",
+              "DocumentMoniker": "C:\\Users\\Neha\\cicd\\TestProject1\\TestProject1.csproj",
               "RelativeDocumentMoniker": "TestProject1.csproj",
-              "ToolTip": "D:\\selenium\\TestProject1\\TestProject1.csproj",
+              "ToolTip": "C:\\Users\\Neha\\cicd\\TestProject1\\TestProject1.csproj",
               "RelativeToolTip": "TestProject1.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-06-29T15:01:16.178Z"
@@ -43,9 +43,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "TestProject1.csproj",
-              "DocumentMoniker": "D:\\selenium\\TestProject1\\TestProject1.csproj",
+              "DocumentMoniker": "C:\\Users\\Neha\\cicd\\TestProject1\\TestProject1.csproj",
               "RelativeDocumentMoniker": "TestProject1.csproj",
-              "ToolTip": "D:\\selenium\\TestProject1\\TestProject1.csproj",
+              "ToolTip": "C:\\Users\\Neha\\cicd\\TestProject1\\TestProject1.csproj",
               "RelativeToolTip": "TestProject1.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -55,13 +55,14 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "UnitTest1.cs",
-              "DocumentMoniker": "D:\\selenium\\TestProject1\\UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Neha\\cicd\\TestProject1\\UnitTest1.cs",
               "RelativeDocumentMoniker": "UnitTest1.cs",
-              "ToolTip": "D:\\selenium\\TestProject1\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Neha\\cicd\\TestProject1\\UnitTest1.cs",
               "RelativeToolTip": "UnitTest1.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAQwC4AAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAIwD8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-29T12:00:20.775Z"
+              "WhenOpened": "2025-06-29T12:00:20.775Z",
+              "EditorCaption": ""
             }
           ]
         }
